@@ -1,0 +1,10 @@
+[0m[1mdocker_image.nodejs_app: Refreshing state... [id=sha256:8ecdd6a18bc5515a3cbadbbb295b0e20f7375065080116c5e50785bd25577e83viveks895/nodejs-demo-app:latest][0m
+[0m[1mdocker_container.nodejs_app: Refreshing state... [id=8fcf4ec5aded6c14758b0266e5b30cdb60e68a8d626c2ebe40a7b0f6c4c46d23][0m
+
+[0m[1m[32mNo changes.[0m[1m Your infrastructure matches the configuration.[0m
+
+[0mTerraform has compared your real infrastructure against your configuration
+and found no differences, so no changes are needed.
+[0m[1m[32m
+Apply complete! Resources: 0 added, 0 changed, 0 destroyed.
+[0m
